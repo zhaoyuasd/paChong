@@ -12,7 +12,6 @@
 	<version>1.0</version>
 	<name>SeimiCrawler-demo</name>
 	<url>http://maven.apache.org</url>
-
 	<dependencies>
 		
 		<!--使用logback打日志 -->
